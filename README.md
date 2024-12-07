@@ -1,3 +1,6 @@
+<img src="https://github.com/user-attachments/assets/07125f38-c196-43c9-b646-0f271d8b9337" width='60'/> x ![image](https://github.com/user-attachments/assets/5257c80f-d926-4e6e-b1d8-e6e7087b6974)
+
+
 # kabal.ai
 Your AI degen intern for your crypto cabal. Execute calls together as a group fund through autonomous kabal agent. 
 Part of kabal.gg app https://github.com/BruhmaHQ/kabal.gg
