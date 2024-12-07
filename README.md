@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/07125f38-c196-43c9-b646-0f271d8b9337" width='80'/> x <img src="https://github.com/user-attachments/assets/5257c80f-d926-4e6e-b1d8-e6e7087b6974" width='80'/> 
+<img src="https://github.com/user-attachments/assets/07125f38-c196-43c9-b646-0f271d8b9337" width='80'/> <span style="font-size:40px; opacity:0.8;">x</span> <img src="https://github.com/user-attachments/assets/5257c80f-d926-4e6e-b1d8-e6e7087b6974" width='80'/> 
 
 # kabal.ai for kabal.gg
 Your AI degen intern for your crypto cabal. Execute calls together as a group fund through autonomous kabal agent. 
