@@ -2,7 +2,7 @@
 
 # kabal.ai for kabal.gg
 
-Replit -  https://replit.com/@lakshya125/KabalAI
+Replit -  https://replit.com/@lakshya125/KabalAI <br/>
 Your AI degen intern for your crypto cabal. Execute calls together as a group fund through autonomous kabal agent. 
 Part of kabal.gg app https://github.com/BruhmaHQ/kabal.gg
 
