@@ -1,3 +1,6 @@
 [submodule "kabal-ai-contract/lib/forge-std"]
 	path = kabal-ai-contract/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "kabal-ai-contract/lib/v3-core"]
+	path = kabal-ai-contract/lib/v3-core
+	url = https://github.com/uniswap/v3-core
